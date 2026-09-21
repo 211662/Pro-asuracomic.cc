@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://asuracomic.cc/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://asuracomic.cc/logo.webp</image:loc>
+      <image:title>AsuraScans Logo - Official Asura Scans</image:title>
+      <image:caption>AsuraScans - Read Manga, Manhwa and Manhua Online for Free</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://asuracomic.cc/asurascans-bg2.webp</image:loc>
+      <image:title>AsuraScans Platform - Asura Scans Reading Interface</image:title>
+      <image:caption>AsuraScans Platform Overview - Browse Manga, Manhwa and Manhua</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://asuracomic.cc/asurascans-bg3.webp</image:loc>
+      <image:title>AsuraScans Reading Experience - Manhwa Reader</image:title>
+      <image:caption>AsuraScans Manhwa Reading Experience - Premium Quality Translations</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://asuracomic.cc/asurascans-bg4.webp</image:loc>
+      <image:title>AsuraScans Popular Series - Top Manhwa and Manga</image:title>
+      <image:caption>Most Popular Series on AsuraScans - Solo Leveling, Nano Machine and More</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://asuracomic.cc/asurascans-bg5.webp</image:loc>
+      <image:title>AsuraScans Blog - Manga and Manhwa News</image:title>
+      <image:caption>AsuraScans Blog - Latest News, Updates and Announcements</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://asuracomic.cc/dmca.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://asuracomic.cc/terms.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://asuracomic.cc/privacy-policy.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>

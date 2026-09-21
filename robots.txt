@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asuracomic.cc/sitemap.xml
+
+# AsuraScans - Official Mirror
+# https://asuracomic.cc
